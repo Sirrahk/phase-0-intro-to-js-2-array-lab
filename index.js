@@ -1,5 +1,3 @@
-// Write your solution here!
-
 //Declare the array cats with values, "Milo", "Otis", and "Garfield" 
 const cats = ["Milo", "Otis", "Garfield"];
 
